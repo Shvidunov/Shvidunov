@@ -34,7 +34,8 @@ ___
 </div>
 
 <h2 align="left">𝘛𝘦𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 </a>
- -  [Тестирование магазина]()
+  
+ -  [Тестирование магазина](https://github.com/Shvidunov/Little-store-testing)
  -  [Тестирование игры CodeBattle]()
 
 
