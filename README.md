@@ -34,7 +34,10 @@ ___
 </div>
 
 
-
+<div class="text" align="left" width="20">
+<h1>Проекты</h1>
+<p>здесь будет текст</p>
+</div>
  
 
 
