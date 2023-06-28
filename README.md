@@ -36,7 +36,7 @@ ___
 <h2 align="left">𝘛𝘦𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 </a>
   
  -  [Тестирование магазина](https://github.com/Shvidunov/Little-store-testing)
- -  [Тестирование игры CodeBattle]()
+ -  [Тестирование игры CodeBattle](https://github.com/Shvidunov/CodeBattle-Game-testing)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shvidunov&theme=solarized_dark)
