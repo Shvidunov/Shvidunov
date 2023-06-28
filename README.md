@@ -5,6 +5,8 @@
   <a href=https://www.facebook.com/profile.php?id=100003375986979>
     <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href=https://mail.google.com/>
+    <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=grey"
   <a href=https://www.8a.nu/user/alexey-shvidunov>
     <img src="https://img.shields.io/badge/8a.nu-red" alt="8a.nu Badge"/>
   </a>
@@ -33,24 +35,32 @@ ___
   </a>
 </div>
 
-<h2 align="left">𝘛𝘦𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 </a>
+## <h2 align="center">𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </a>
+
   
- -  [Тестирование магазина](https://github.com/Shvidunov/Little-store-testing)
- -  [Тестирование игры CodeBattle](https://github.com/Shvidunov/CodeBattle-Game-testing)
+<p align="center"> 
+<a href="https://github.com/Shvidunov/Little-store-testing">Тестирование магазина</a>
+</p>
+
+<p align="center">   
+<a href="https://github.com/Shvidunov/CodeBattle-Game-testing">Тестирование игры CodeBattle</a>
+</p>
+
+###
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shvidunov&theme=solarized_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shvidunov&theme=solarized_dark)
-
-
-<p align="left">
+<p align="center">
 <a href="https://qase.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+</a>
+<a href="https://www.selenium.dev/selenium-ide/">
+<img src="https://www.selenium.dev/selenium-ide/img/selenium-ide128.png" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
