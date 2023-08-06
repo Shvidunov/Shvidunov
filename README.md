@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href=https://www.codewars.com/users/Shvidunov>
-  <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=white" alt="Codewars badge"/>
+    <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=white" alt="Codewars badge"/>
   </a>
 </div>
 
