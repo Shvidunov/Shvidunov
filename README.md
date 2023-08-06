@@ -11,6 +11,9 @@
   <a href=https://t.me/ash1291tt>
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href=https://www.codewars.com/users/Shvidunov/badges/micro>
+  <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=white" alt="Codewars badge"/>
+  </a>
 </div>
 
 ___
