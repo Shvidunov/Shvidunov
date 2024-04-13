@@ -72,7 +72,7 @@ ___
 ***
 
 <h4 align="center"> и немножко тестирую себя </a>
-  
+
 <div id="badges" align="center">
    <a href=https://www.8a.nu/user/alexey-shvidunov>
     <img src="https://img.shields.io/badge/8a.nu-red" alt="8a.nu Badge"/>
